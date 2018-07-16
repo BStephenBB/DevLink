@@ -5,7 +5,7 @@ const ProfileActions = () => {
   return (
     <div className="btn-group mb-4" role="group">
       <Link
-        to="/eidt-profile"
+        to="/edit-profile"
         href="edit-profile.html"
         className="btn btn-light"
       >
